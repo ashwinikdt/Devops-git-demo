@@ -1,2 +1,2 @@
-echo "Checking what happens if we edit added files"
+echo "Checking what happens if we edit added file!"
 echo "Changed the added file"
