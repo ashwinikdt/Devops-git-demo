@@ -1,0 +1,1 @@
+o "Checking what happens if we edit added files"
